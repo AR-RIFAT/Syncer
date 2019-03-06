@@ -1,0 +1,35 @@
+.addBobOk{
+        -fx-background-color: #aed6f1;
+        -fx-background-radius: 5,5,4;
+        -fx-background-insets: 0 0 -1 0,0,1;
+        -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+        -fx-text-alignment: center;
+}
+.addBobOk:hover{
+
+        -fx-background-color: #85c1e9;
+        -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );
+        -fx-text-alignment: center;
+}
+
+.copyall{
+
+        -fx-background-color:#ffffff; 
+        -fx-text-alignment: center;
+}
+.copyall:hover{
+
+        -fx-background-color: #eaeded;                       
+        -fx-text-alignment: center;
+}
+
+.clear{
+
+        -fx-background-color:#ffffff; 
+        -fx-text-alignment: center;
+}
+.clear:hover{
+
+        -fx-background-color:#fadbd8;                       
+        -fx-text-alignment: center;
+}
